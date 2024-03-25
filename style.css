@@ -1,0 +1,11 @@
+.h1-class {
+    border: 1px solid red;
+    text-transform: uppercase;
+}
+#id-h1{
+    color:blue;
+
+}
+.test {
+    background-color: gray;
+}
